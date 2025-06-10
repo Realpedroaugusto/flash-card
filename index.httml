@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard</title>
+</head>
+<body>
+    <main>
+        <section id="container">
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Clash royale</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        O que é o jogo Clash Royale?
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        Clash Royale é um jogo de estratégia em tempo real da Supercell, onde você usa cartas com tropas, feitiços e defesas para destruir as torres inimigas. O objetivo é derrubar a Torre do Rei adversário antes que ele derrube a sua, em batalhas rápidas e dinâmicas contra jogadores do mundo todo. É um mix de jogo de cartas colecionáveis, defesa de torre e arena de batalha online.
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        Como jogar o Clash Royale?
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        Monte um deck com 8 cartas (tropas, feitiços, construções) e use o elixir para jogá-las na arena, buscando destruir as torres do rei e das princesas do seu oponente antes que ele destrua as suas. Gerencie seu elixir e posicione as cartas estrategicamente para atacar e defender.
+                    </div>
+                </div>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>Projeto desenvolvido pelo Pedro Augusto</p>
+    </footer>
+</body>
+</html>
